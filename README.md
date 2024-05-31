@@ -47,3 +47,7 @@ We welcome contributions to this project! Please see the CONTRIBUTING.md file fo
 ### License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+![image](https://github.com/walking-w/code-clause-internship/assets/132041779/f1b43fd7-cdd3-480d-9084-8d1802c581f8)
