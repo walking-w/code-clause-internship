@@ -23,8 +23,7 @@ This application allows users to manage their to-do list through a text-based in
 
 * Java
 
-### What You Learn
-
+### What I Learned
 * Basic task management concepts
 * User input handling in Java
 
